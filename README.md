@@ -8,4 +8,4 @@ The bot has 3 commands:
 * `<setChannel>` Sets the channel the bot will post to
   * Simply type this into the channel you wish the bot to announce in and the bot will remember that channel
   * To change the channel, simply type the command in the new channel
-  
+* `<about>` Lists this information and explains the bot's purpose  
